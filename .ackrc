@@ -1,0 +1,6 @@
+
+--type-set
+racket=.rkt
+
+--type-set
+go=.go

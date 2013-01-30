@@ -1,0 +1,8 @@
+
+command! -nargs=* google open google <args>
+command! -nargs=* wiki open wikipedia <args>
+map -builtin gb gT
+
+command! dev wino https://tracker.corp.google.com/projects/5826#
+command! monitor wino http://go/apiz | 
+
