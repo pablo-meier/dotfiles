@@ -1,7 +1,5 @@
-
-
 [user]
-    Name = Paul Meier
+    Name = Pablo Meier
     Email = pablo.a.meier@gmail.com
     Editor = vim
 
@@ -12,5 +10,3 @@
 [alias]
     st = status -s
     lg = log --oneline
-[core]
-	excludesfile = /home/meierp/.gitignore

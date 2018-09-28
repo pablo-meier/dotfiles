@@ -1,0 +1,10 @@
+[ui]
+username = Pablo Meier <pablo.a.meier@gmail.com>
+
+[extensions]
+color =
+pager =
+shelve =
+
+[pager]
+pager = LESS='FRX' less

@@ -3,40 +3,44 @@
 "  http://nvie.com/posts/how-i-boosted-my-vim/
 
 let mapleader=","
-set nocompatible
 
+set nocompatible
 filetype off                   " required!
 
-set rtp+=~/.vim/bundle/vundle/
-call vundle#rc()
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
 
-" let Vundle manage Vundle
-" required! 
-Bundle 'gmarik/vundle'
+" let Vundle manage Vundle, required! 
+Plugin 'gmarik/vundle'
 
 " My Bundles here:
 "
 " original repos on github
-Bundle 'mileszs/ack.vim'
-Bundle 'tpope/vim-fugitive'
-Bundle 'tpope/vim-surround'
-Bundle 'tpope/vim-markdown'
-Bundle 'Lokaltog/vim-easymotion'
-Bundle 'rstacruz/sparkup', {'rtp': 'vim/'}
-Bundle 'wincent/Command-T'
-Bundle 'wlangstroth/vim-racket'
+Plugin 'mileszs/ack.vim'
+Plugin 'tpope/vim-fugitive'
+Plugin 'tpope/vim-surround'
+Plugin 'tpope/vim-markdown'
+Plugin 'Lokaltog/vim-easymotion'
+Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
+Plugin 'ctrlpvim/ctrlp.vim'
+Plugin 'wlangstroth/vim-racket'
+Plugin 'Valloric/YouCompleteMe'
+Plugin 'nvie/vim-flake8'
+Plugin 'elixir-editors/vim-elixir'
 
 " Check out later?
 " Bundle Shougo/neocomplcache
 " Bundle majutsushi/tagbar
 " Bundle eagletmt/ghcmod-vim
-" Bundle scrooloose/syntastic
+
+Plugin 'scrooloose/syntastic'
 
 " vim-scripts repos
-Bundle 'L9'
-Bundle 'FuzzyFinder'
+Plugin 'L9'
+Plugin 'FuzzyFinder'
 " non github repos
 
+call vundle#end()
 filetype plugin indent on 
 
 set modelines=0
@@ -45,7 +49,7 @@ nmap <silent> <leader>sv :so $MYVIMRC<CR>
 set hidden
 
 " Mine.  Tabbers Gonna Tab.
-set noexpandtab
+set expandtab
 
 syntax enable
 filetype indent on
@@ -71,3 +75,4 @@ set undolevels=1000
 set wildignore=*.smp,*.bak,*.class,*.o
 set title
 
+let g:syntastic_ocaml_checkers = ['merlin']
