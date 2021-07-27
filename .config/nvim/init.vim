@@ -6,35 +6,8 @@
 let mapleader=","
 set nocompatible
 
-" Using vim-plug these days...
-call plug#begin()
-
-" Language-agnostic
-Plug 'dense-analysis/ale'
-Plug 'Shougo/deoplete.nvim'
-Plug 'roxma/nvim-yarp'
-Plug 'roxma/vim-hug-neovim-rpc'
-Plug 'scrooloose/syntastic'
-Plug 'tpope/vim-fugitive'
-Plug 'tpope/vim-surround'
-Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
-Plug 'junegunn/fzf.vim'
-
-" Language-specific
-Plug 'nathangrigg/vim-beancount'
-Plug 'tpope/vim-markdown'
-Plug 'nvie/vim-flake8'
-Plug 'elixir-editors/vim-elixir'
-Plug 'wlangstroth/vim-racket'
-Plug 'hashivim/vim-terraform'
-Plug 'ekalinin/Dockerfile.vim'
-Plug 'copy/deoplete-ocaml'
-
-call plug#end()
-
 set modelines=0
 set hidden
-
 
 set expandtab
 set nohlsearch
@@ -64,66 +37,111 @@ noremap j gj
 " Leader time
 "
 " Edit your .vimrc
-nmap <silent> <leader>ev :e $MYVIMRC<CR>
+nmap <silent> <Leader>ev :e $MYVIMRC<CR>
 " Reload .vimrc
-nmap <silent> <leader>sv :so $MYVIMRC<CR>
+nmap <silent> <Leader>sv :so $MYVIMRC<CR>
+
+call plug#begin()
+
+" Language-agnostic
+Plug 'scrooloose/syntastic'
+Plug 'tpope/vim-fugitive'
+Plug 'tpope/vim-surround'
+Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
+Plug 'junegunn/fzf.vim'
+Plug 'junegunn/goyo.vim'
+Plug 'elixir-lsp/elixir-ls', {'do': { -> g:ElixirLS.compile()}}
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'mhinz/vim-signify'
+
+" Language-specific
+Plug 'nathangrigg/vim-beancount'
+Plug 'tpope/vim-markdown'
+Plug 'nvie/vim-flake8'
+Plug 'elixir-editors/vim-elixir'
+Plug 'wlangstroth/vim-racket'
+Plug 'hashivim/vim-terraform'
+Plug 'ekalinin/Dockerfile.vim'
+Plug 'leafgarland/typescript-vim'
+Plug 'peitalin/vim-jsx-typescript'
+
+call plug#end()
+
+highlight CocErrorFloat ctermfg=Black
+highlight SignifySignAdd ctermbg=28
+highlight SignifySignChange ctermbg=18
+let g:signify_sign_change = '>'
+
+" <TAB> and <S-TAB> to cycle through results, <CR> to select one.
+inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : "\<Tab>"
+inoremap <expr> <S-Tab> pumvisible() ? "\<C-p>" : "\<S-Tab>"
+inoremap <expr> <cr> pumvisible() ? "\<C-y>" : "\<C-g>u\<CR>"
+
+
+" Don't autocomplete on `end` in Elixir (makes it hard to line break)
+autocmd FileType elixir let b:coc_suggest_blacklist = ["end"]
+
+" Go to diagnostics easily
+nmap <silent> [g <Plug>(coc-diagnostic-prev)
+nmap <silent> ]g <Plug>(coc-diagnostic-next)
+
+" Go to definition
+nmap <silent> gd <Plug>(coc-definition)
+" Type definition
+nmap <silent> gy <Plug>(coc-type-definition)
+" Type definition
+nmap <silent> gi <Plug>(coc-implementation)
+nmap <silent> gr <Plug>(coc-references)
+
+
+let g:coc_global_extensions = ['coc-elixir', 'coc-python', 'coc-diagnostic']
+
+let g:ElixirLS = {}
+let ElixirLS.path = stdpath('config').'/plugged/elixir-ls'
+let ElixirLS.lsp = ElixirLS.path.'/release/language_server.sh'
+let ElixirLS.cmd = join([
+        \ 'asdf install &&',
+        \ 'mix do',
+        \ 'local.hex --force --if-missing,',
+        \ 'local.rebar --force,',
+        \ 'deps.get,',
+        \ 'compile,',
+        \ 'elixir_ls.release'
+        \ ], ' ')
+
+function ElixirLS.on_stdout(_job_id, data, _event)
+  let self.output[-1] .= a:data[0]
+  call extend(self.output, a:data[1:])
+endfunction
+
+let ElixirLS.on_stderr = function(ElixirLS.on_stdout)
+
+function ElixirLS.on_exit(_job_id, exitcode, _event)
+  if a:exitcode[0] == 0
+    echom '>>> ElixirLS compiled'
+  else
+    echoerr join(self.output, ' ')
+    echoerr '>>> ElixirLS compilation failed'
+  endif
+endfunction
+
+function ElixirLS.compile()
+  let me = copy(g:ElixirLS)
+  let me.output = ['']
+  echom '>>> compiling ElixirLS'
+  let me.id = jobstart('cd ' . me.path . ' && git pull && ' . me.cmd, me)
+endfunction
+
+call coc#config('elixir', {
+  \ 'command': g:ElixirLS.lsp,
+  \ 'filetypes': ['elixir', 'eelixir']
+  \})
+call coc#config('elixir.pathToElixirLS', g:ElixirLS.lsp)
 
 
 " open file finder - F
 nmap <Leader>f :Files<CR>
-" Go to definition - B
-nmap <Leader>b :ALEGoToDefinition<CR>
-" Symbol Search - E
-nmap <Leader>e :ALESymbolSearch<CR>
-" ALE errors quickly with Ctrl J and K
-nmap <silent> <C-k> <Plug>(ale_previous_wrap)
-nmap <silent> <C-j> <Plug>(ale_next_wrap)
-" Get type of expression
-nmap <Leader>t :MerlinTypeOf<CR>
-
 set completeopt=menu,menuone,preview,noselect,noinsert
-let g:ale_completion_enabled = 1
-let g:ale_linters = {}
-let g:ale_fixers = {'*': ['remove_trailing_lines', 'trim_whitespace']}
-let g:ale_fix_on_save = 1
-
-let g:ale_fixers.elixir = ['mix_format']
-let g:ale_linters.elixir = ['elixir-ls', 'credo']
-let g:ale_elixir_elixir_ls_release = '~/projects/git_clones/elixir-ls/rel'
-
-let g:deoplete#enable_at_startup = 1
-
-let g:syntastic_ocaml_checkers = ['merlin']
-
-" ## added by OPAM user-setup for vim / base ## 93ee63e278bdfc07d1139a748ed3fff2 ## you can edit, but keep this line
-let s:opam_share_dir = system("opam config var share")
-let s:opam_share_dir = substitute(s:opam_share_dir, '[\r\n]*$', '', '')
-
-let s:opam_configuration = {}
-
-function! OpamConfOcpIndent()
-  execute "set rtp^=" . s:opam_share_dir . "/ocp-indent/vim"
-endfunction
-let s:opam_configuration['ocp-indent'] = function('OpamConfOcpIndent')
-
-function! OpamConfOcpIndex()
-  execute "set rtp+=" . s:opam_share_dir . "/ocp-index/vim"
-endfunction
-let s:opam_configuration['ocp-index'] = function('OpamConfOcpIndex')
-
-function! OpamConfMerlin()
-  let l:dir = s:opam_share_dir . "/merlin/vim"
-  execute "set rtp+=" . l:dir
-endfunction
-let s:opam_configuration['merlin'] = function('OpamConfMerlin')
-
-let s:opam_packages = ["ocp-indent", "ocp-index", "merlin"]
-let s:opam_check_cmdline = ["opam list --installed --short --safe --color=never"] + s:opam_packages
-let s:opam_available_tools = split(system(join(s:opam_check_cmdline)))
-for tool in s:opam_packages
-  " Respect package order (merlin should be after ocp-index)
-  if count(s:opam_available_tools, tool) > 0
-    call s:opam_configuration[tool]()
-  endif
-endfor
-" ## end of OPAM user-setup addition for vim / base ## keep this line
+let g:LanguageClient_serverCommands = {
+    \ 'python': ['/Users/pablo/ycard/suma-core/env/bin/pyls'],
+    \ }

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "coc-diagnostic": ">=0.21.0",
+    "coc-elixir": ">=0.7.0",
+    "coc-json": ">=1.2.6",
+    "coc-python": ">=1.2.13"
+  }
+}

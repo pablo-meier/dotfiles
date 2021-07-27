@@ -1,0 +1,4 @@
+workspace.showOutput
+python.runLinting
+python.enableLinting
+python.startREPL

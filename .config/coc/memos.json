@@ -1,0 +1,2932 @@
+{
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "/usr/local/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "8da9cc3f0b6a9913609b0e47fb8421950cb4575b4b0e67d51fae3f86ac02670b0527ee28304076fc41d0f1c35af7918e8ee9a78666c6b1d073b5ffa34f0e2043"
+      },
+      "expiry": 1626810351985
+    },
+    "/usr/local/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@2/2.7.16_1/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "6e2cdfc722c96707465d5e5abdcee4d818fa1edf58f1187bb7af0dc5f866d2034cc6413a0c4b2bfe43432f8d7a3cf6cb30d2d75ed2f37d112c2b7954199e008d"
+      },
+      "expiry": 1626810351997
+    },
+    "/usr/local/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@2/2.7.16_1/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "e0b92fa31f2210d1fc6ea80755312889ee64b5015438265ed1f26b4f0a10b0b5f08abbd700c72b289c51eb0b961a79a6e351f527da69b582ebe62cf6170f85e0"
+      },
+      "expiry": 1626810351982
+    },
+    "/usr/local/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@2/2.7.16_1/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "add40357ef6d65c7bf2060ffe5928eb96ddd89a76d2fea67a2082c31848cd120c273f41a11ede544b6f7a8bad2f5ccfbdef621082ac9637985afaced9261f308"
+      },
+      "expiry": 1626810352001
+    },
+    "/usr/local/bin/python3.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "9f4e1d6920ef3b043b7b50e86d8463aa4b503ef6cd5ee386c70a188dc6fe3de9d92e66820a117ed7706589b17329c2c08147060f3e7595776db95da5f23ad6bf"
+      },
+      "expiry": 1609996320210
+    },
+    "/Users/pablo/ycard/finicity-shell/env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/finicity-shell/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/finicity-shell/env/bin/..",
+        "fileHash": "eedc0b9284abf435825694d23fc826c551b58322587421eb0860d05a3c2115489de40882cc3efa3e0675d7a4dd876c7ebd2c698d40c07232d75d928820fb85b4"
+      },
+      "expiry": 1590028172146
+    },
+    "/usr/local/opt/python@2/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/opt/python@2/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@2/2.7.16_1/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "55ba0ae5c1f8ea9dbb2e4e57aa810b4be31a7762c17adc82cbce1186decff6049c2fabc8061674258c312ecf53da62f0520da65731b3d77693dccb308e9886e0"
+      },
+      "expiry": 1626810352102
+    },
+    "/Users/pablo/ycard/finicity-shell/env/bin/python3.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/finicity-shell/env/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/finicity-shell/env/bin/..",
+        "fileHash": "f41ca7c6ebb003d6f96058a774eb04afb60dfb4d7190563a86ff93c43692e1b9ebcbb4e07cecc1ea27ef6601aa56328d825637364ca5d53a751d74b7ca7108e5"
+      },
+      "expiry": 1590028172127
+    },
+    "/Users/pablo/ycard/finicity-shell/env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/finicity-shell/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/finicity-shell/env/bin/..",
+        "fileHash": "6cd6c0fec9c05d21d9df97753d3426951b6dc9ef8997e944761f8306e30c8d831e7dc33322d4a37a192095a25b2dca9fbe3451a8e84cc8ae30ca67130226c72d"
+      },
+      "expiry": 1590028172131
+    },
+    "/usr/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "7f5765090fbbae93d3cf5833532f2d8d04c1bbbc866bf05ec4f23561d998195c30774d64728a8c4f80bd8e85e5d69685841bb4aaff18497e46a61f12b97b938c"
+      },
+      "expiry": 1626810352099
+    },
+    "/usr/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "856c3b98ef47966f672f4aa9f979ebfd9a66f5c320cc0d8f6951b43e0b8238594f4779a94ade068279c2d0f51f184cb44d2abb04333bbad800692dcb368aa591"
+      },
+      "expiry": 1626810352097
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@2/2.7.16_1/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "add40357ef6d65c7bf2060ffe5928eb96ddd89a76d2fea67a2082c31848cd120c273f41a11ede544b6f7a8bad2f5ccfbdef621082ac9637985afaced9261f308",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@2/2.7.16_1/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "e0b92fa31f2210d1fc6ea80755312889ee64b5015438265ed1f26b4f0a10b0b5f08abbd700c72b289c51eb0b961a79a6e351f527da69b582ebe62cf6170f85e0",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@2/2.7.16_1/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "6e2cdfc722c96707465d5e5abdcee4d818fa1edf58f1187bb7af0dc5f866d2034cc6413a0c4b2bfe43432f8d7a3cf6cb30d2d75ed2f37d112c2b7954199e008d",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "8da9cc3f0b6a9913609b0e47fb8421950cb4575b4b0e67d51fae3f86ac02670b0527ee28304076fc41d0f1c35af7918e8ee9a78666c6b1d073b5ffa34f0e2043",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "145f86075005fae2229bea817a95e79c1ee6c784d7633c7ab43e81cf73353d749fd5d74a7b19b7e5cb3a4f33419290abd0012e9256e83c5514a0839ac2819a77",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "856c3b98ef47966f672f4aa9f979ebfd9a66f5c320cc0d8f6951b43e0b8238594f4779a94ade068279c2d0f51f184cb44d2abb04333bbad800692dcb368aa591",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "57713c61d3f38a71f4e942ac48699e9aacb818ae279d82779f9179a4aa6610400705ce886a8ec5a28c9dfa8d6befde80c6f58105049c0083eb4a4b714f7b918d",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "7f5765090fbbae93d3cf5833532f2d8d04c1bbbc866bf05ec4f23561d998195c30774d64728a8c4f80bd8e85e5d69685841bb4aaff18497e46a61f12b97b938c",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.2-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.2-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "edec1cb3a1181e2f430db639f5af1113cb1137fcade895303f01c9c29ea0d172d8fd8673659cd0cb43083360d6e23b43fd493f5dd2b83419443e023c8668644a",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@2/2.7.16_1/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "add40357ef6d65c7bf2060ffe5928eb96ddd89a76d2fea67a2082c31848cd120c273f41a11ede544b6f7a8bad2f5ccfbdef621082ac9637985afaced9261f308",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@2/2.7.16_1/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "e0b92fa31f2210d1fc6ea80755312889ee64b5015438265ed1f26b4f0a10b0b5f08abbd700c72b289c51eb0b961a79a6e351f527da69b582ebe62cf6170f85e0",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@2/2.7.16_1/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "6e2cdfc722c96707465d5e5abdcee4d818fa1edf58f1187bb7af0dc5f866d2034cc6413a0c4b2bfe43432f8d7a3cf6cb30d2d75ed2f37d112c2b7954199e008d",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "8da9cc3f0b6a9913609b0e47fb8421950cb4575b4b0e67d51fae3f86ac02670b0527ee28304076fc41d0f1c35af7918e8ee9a78666c6b1d073b5ffa34f0e2043",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "145f86075005fae2229bea817a95e79c1ee6c784d7633c7ab43e81cf73353d749fd5d74a7b19b7e5cb3a4f33419290abd0012e9256e83c5514a0839ac2819a77",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "856c3b98ef47966f672f4aa9f979ebfd9a66f5c320cc0d8f6951b43e0b8238594f4779a94ade068279c2d0f51f184cb44d2abb04333bbad800692dcb368aa591",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "57713c61d3f38a71f4e942ac48699e9aacb818ae279d82779f9179a4aa6610400705ce886a8ec5a28c9dfa8d6befde80c6f58105049c0083eb4a4b714f7b918d",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "7f5765090fbbae93d3cf5833532f2d8d04c1bbbc866bf05ec4f23561d998195c30774d64728a8c4f80bd8e85e5d69685841bb4aaff18497e46a61f12b97b938c",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.2-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.2-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "edec1cb3a1181e2f430db639f5af1113cb1137fcade895303f01c9c29ea0d172d8fd8673659cd0cb43083360d6e23b43fd493f5dd2b83419443e023c8668644a",
+        "type": "Unknown"
+      }
+    ],
+    "/Users/pablo/ycard/finicity-shell/env/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "eedc0b9284abf435825694d23fc826c551b58322587421eb0860d05a3c2115489de40882cc3efa3e0675d7a4dd876c7ebd2c698d40c07232d75d928820fb85b4"
+      },
+      "expiry": 1590028172234
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/usr/local/opt/python@3.9/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "cb366481e96351153185051237199cd632c238b673542c1bae79e45d46371ee584158240bd43074e945e1843b2ca490d0ce928cc66d1b31e15ed4324e738dda0",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/opt/python@2/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@2/2.7.16_1/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "55ba0ae5c1f8ea9dbb2e4e57aa810b4be31a7762c17adc82cbce1186decff6049c2fabc8061674258c312ecf53da62f0520da65731b3d77693dccb308e9886e0",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/opt/python@2/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python@2/2.7.16_1/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "55ba0ae5c1f8ea9dbb2e4e57aa810b4be31a7762c17adc82cbce1186decff6049c2fabc8061674258c312ecf53da62f0520da65731b3d77693dccb308e9886e0",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/suma-core/core_env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.10-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.10-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/suma-core/core_env",
+        "fileHash": "d331f0bcef23eefa4dd881bd36e26e7f582e27279b6b234497e9115a25b7773f8f0d1144ced0423a0fad0dd15e1af18316dcfc4de824dd5b641409e38110488b",
+        "type": "Unknown"
+      }
+    ],
+    "PipEnvInformation": [],
+    "/Users/pablo/ycard/finicity-shell/env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.6 64-bit ('env': virtualenv)",
+        "hash": "6cd6c0fec9c05d21d9df97753d3426951b6dc9ef8997e944761f8306e30c8d831e7dc33322d4a37a192095a25b2dca9fbe3451a8e84cc8ae30ca67130226c72d-909ac859b31a32552afff21b70ad392c"
+      },
+      "expiry": 1590028172219
+    },
+    "/usr/local/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.16 64-bit",
+        "hash": "add40357ef6d65c7bf2060ffe5928eb96ddd89a76d2fea67a2082c31848cd120c273f41a11ede544b6f7a8bad2f5ccfbdef621082ac9637985afaced9261f308-0c3cd0cfe43a2a22571886404afd86d1"
+      },
+      "expiry": 1626810352237
+    },
+    "/usr/local/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.5 64-bit",
+        "hash": "8da9cc3f0b6a9913609b0e47fb8421950cb4575b4b0e67d51fae3f86ac02670b0527ee28304076fc41d0f1c35af7918e8ee9a78666c6b1d073b5ffa34f0e2043-851a259908d4e57e0406a9f03d41e766"
+      },
+      "expiry": 1626810352235
+    },
+    "/usr/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.16 64-bit",
+        "hash": "856c3b98ef47966f672f4aa9f979ebfd9a66f5c320cc0d8f6951b43e0b8238594f4779a94ade068279c2d0f51f184cb44d2abb04333bbad800692dcb368aa591-cce6b1ec6224b1c5577ceb22867d223d"
+      },
+      "expiry": 1626810352240
+    },
+    "/usr/local/opt/python@2/bin/python2.7.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.16 64-bit",
+        "hash": "55ba0ae5c1f8ea9dbb2e4e57aa810b4be31a7762c17adc82cbce1186decff6049c2fabc8061674258c312ecf53da62f0520da65731b3d77693dccb308e9886e0-de7c510d958368bf8e9bdb23ee37d288"
+      },
+      "expiry": 1626810352245
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/usr/local/opt/python@3.9/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.5-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.5-final"
+      },
+      "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "cb366481e96351153185051237199cd632c238b673542c1bae79e45d46371ee584158240bd43074e945e1843b2ca490d0ce928cc66d1b31e15ed4324e738dda0",
+      "type": "Unknown",
+      "displayName": "Python 3.9.5 64-bit"
+    },
+    "/Users/pablo/ycard/finicity-shell/env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "6cd6c0fec9c05d21d9df97753d3426951b6dc9ef8997e944761f8306e30c8d831e7dc33322d4a37a192095a25b2dca9fbe3451a8e84cc8ae30ca67130226c72d",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/pablo/ycard/finicity-shell/env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.6-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.6-final"
+          },
+          "sysPrefix": "/Users/pablo/ycard/finicity-shell/env/bin/..",
+          "fileHash": "6cd6c0fec9c05d21d9df97753d3426951b6dc9ef8997e944761f8306e30c8d831e7dc33322d4a37a192095a25b2dca9fbe3451a8e84cc8ae30ca67130226c72d",
+          "envName": "env",
+          "type": "VirtualEnv",
+          "displayName": "Python 3.7.6 64-bit ('env': virtualenv)"
+        }
+      },
+      "expiry": 1590028172252
+    },
+    "/usr/local/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "add40357ef6d65c7bf2060ffe5928eb96ddd89a76d2fea67a2082c31848cd120c273f41a11ede544b6f7a8bad2f5ccfbdef621082ac9637985afaced9261f308",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.16-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.16-final"
+          },
+          "sysPrefix": "/usr/local/Cellar/python@2/2.7.16_1/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "add40357ef6d65c7bf2060ffe5928eb96ddd89a76d2fea67a2082c31848cd120c273f41a11ede544b6f7a8bad2f5ccfbdef621082ac9637985afaced9261f308",
+          "type": "Unknown",
+          "displayName": "Python 2.7.16 64-bit"
+        }
+      },
+      "expiry": 1626810352289
+    },
+    "/usr/local/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "8da9cc3f0b6a9913609b0e47fb8421950cb4575b4b0e67d51fae3f86ac02670b0527ee28304076fc41d0f1c35af7918e8ee9a78666c6b1d073b5ffa34f0e2043",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.5-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.5-final"
+          },
+          "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+          "fileHash": "8da9cc3f0b6a9913609b0e47fb8421950cb4575b4b0e67d51fae3f86ac02670b0527ee28304076fc41d0f1c35af7918e8ee9a78666c6b1d073b5ffa34f0e2043",
+          "type": "Unknown",
+          "displayName": "Python 3.9.5 64-bit"
+        }
+      },
+      "expiry": 1626810352284
+    },
+    "/usr/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "856c3b98ef47966f672f4aa9f979ebfd9a66f5c320cc0d8f6951b43e0b8238594f4779a94ade068279c2d0f51f184cb44d2abb04333bbad800692dcb368aa591",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.16-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.16-final"
+          },
+          "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "856c3b98ef47966f672f4aa9f979ebfd9a66f5c320cc0d8f6951b43e0b8238594f4779a94ade068279c2d0f51f184cb44d2abb04333bbad800692dcb368aa591",
+          "type": "Unknown",
+          "displayName": "Python 2.7.16 64-bit"
+        }
+      },
+      "expiry": 1626810352295
+    },
+    "/usr/local/opt/python@2/bin/python2.7.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "55ba0ae5c1f8ea9dbb2e4e57aa810b4be31a7762c17adc82cbce1186decff6049c2fabc8061674258c312ecf53da62f0520da65731b3d77693dccb308e9886e0",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/opt/python@2/bin/python2.7",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.16-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.16-final"
+          },
+          "sysPrefix": "/usr/local/Cellar/python@2/2.7.16_1/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "55ba0ae5c1f8ea9dbb2e4e57aa810b4be31a7762c17adc82cbce1186decff6049c2fabc8061674258c312ecf53da62f0520da65731b3d77693dccb308e9886e0",
+          "type": "Unknown",
+          "displayName": "Python 2.7.16 64-bit"
+        }
+      },
+      "expiry": 1626810352304
+    },
+    "/Users/pablo/ycard/finicity-shell/env/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.6 64-bit ('env': virtualenv)",
+        "hash": "eedc0b9284abf435825694d23fc826c551b58322587421eb0860d05a3c2115489de40882cc3efa3e0675d7a4dd876c7ebd2c698d40c07232d75d928820fb85b4-4eb9de565261da6d16f18ef29f46deb3"
+      },
+      "expiry": 1590028172288
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/usr/local/opt/python@3.9/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.5-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.5-final"
+      },
+      "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "cb366481e96351153185051237199cd632c238b673542c1bae79e45d46371ee584158240bd43074e945e1843b2ca490d0ce928cc66d1b31e15ed4324e738dda0",
+      "type": "Unknown",
+      "displayName": "Python 3.9.5 64-bit"
+    },
+    "ProposeLSBanner": false,
+    "/Users/pablo/Desktop/feb_env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/pablo/Desktop/feb_env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/Users/pablo/Desktop/feb_env",
+        "fileHash": "8953d58bf6ec8493826955b657a7b742ec7c4cecc8dcec2a3bb4a88cd538653be2444641f4ec3e5535b6ac8faed2a2fee7b2c4bc6c7930b9bbb60457f32e33e9"
+      },
+      "expiry": 1626810352101
+    },
+    "/Users/pablo/Desktop/feb_env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/pablo/Desktop/feb_env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/Users/pablo/Desktop/feb_env",
+        "fileHash": "936f68b7c7616458a5c69a5a2b7deb43a999dd709322f06a9346d42d4ae58eacbdb6ccd6546cbaf4f3d7196296792ab2a544fbbbc26dee596cbd946e2845190b"
+      },
+      "expiry": 1626810352104
+    },
+    "/Users/pablo/Desktop/feb_env/bin/python3.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/pablo/Desktop/feb_env/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/Users/pablo/Desktop/feb_env/bin/..",
+        "fileHash": "9039f6a3b5c8db92e6b9c418f0cd74c5bebb6965f1c7a81d094c97b67360fb17f7d07a9d317a3ae44f6e01056002fc9c24d56d02f20a469daa2ee85bcb48c2f5"
+      },
+      "expiry": 1604177615849
+    },
+    "/Users/pablo/ycard/suma-core/env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/suma-core/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/suma-core/env/bin/..",
+        "fileHash": "f6c8572ce8f2999921975e3cf89ec181bbf4465ca14b71cc41cfdc9b28b7c7c88dd86fb656b22af23e0befc948b04dd88a9f5025b22a19174bc6eda9287825c3"
+      },
+      "expiry": 1602788133658
+    },
+    "/Users/pablo/ycard/suma-core/env/bin/python3.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/suma-core/env/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/suma-core/env/bin/..",
+        "fileHash": "d8218fc4bbabb9589401646c50bc373c91e1a1448f807a0ad3b6c6015a27f93b7ec01304bcf5c3f35b8adbeab9ede6697d1a8140323a79141add3fcb0a4ff870"
+      },
+      "expiry": 1602788133671
+    },
+    "/Users/pablo/ycard/suma-core/env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/suma-core/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/suma-core/env/bin/..",
+        "fileHash": "4f85cd342f23e170f6b395fd2edc09713eefacb885e6ea8e098f91ac1ea7ea9667ad07f570f3643055ef8246093fdcbbec004a484a30c28002134d1649376a31"
+      },
+      "expiry": 1602788133656
+    },
+    "/Users/pablo/ycard/suma-core/env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.6 64-bit ('env': virtualenv)",
+        "hash": "f6c8572ce8f2999921975e3cf89ec181bbf4465ca14b71cc41cfdc9b28b7c7c88dd86fb656b22af23e0befc948b04dd88a9f5025b22a19174bc6eda9287825c3-04c6a01307dfaf54fbe27243bb204f9d"
+      },
+      "expiry": 1602788133746
+    },
+    "/Users/pablo/ycard/suma-core/env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "f6c8572ce8f2999921975e3cf89ec181bbf4465ca14b71cc41cfdc9b28b7c7c88dd86fb656b22af23e0befc948b04dd88a9f5025b22a19174bc6eda9287825c3",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/pablo/ycard/suma-core/env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.6-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.6-final"
+          },
+          "sysPrefix": "/Users/pablo/ycard/suma-core/env/bin/..",
+          "fileHash": "f6c8572ce8f2999921975e3cf89ec181bbf4465ca14b71cc41cfdc9b28b7c7c88dd86fb656b22af23e0befc948b04dd88a9f5025b22a19174bc6eda9287825c3",
+          "envName": "env",
+          "type": "VirtualEnv",
+          "displayName": "Python 3.7.6 64-bit ('env': virtualenv)"
+        }
+      },
+      "expiry": 1602788133788
+    },
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/usr/local/opt/python@3.9/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.5-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.5-final"
+      },
+      "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "cb366481e96351153185051237199cd632c238b673542c1bae79e45d46371ee584158240bd43074e945e1843b2ca490d0ce928cc66d1b31e15ed4324e738dda0",
+      "type": "Unknown",
+      "displayName": "Python 3.9.5 64-bit"
+    },
+    "/Users/pablo/Desktop/feb_env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.5 64-bit",
+        "hash": "8953d58bf6ec8493826955b657a7b742ec7c4cecc8dcec2a3bb4a88cd538653be2444641f4ec3e5535b6ac8faed2a2fee7b2c4bc6c7930b9bbb60457f32e33e9-d98eeab23f9a98433297840bf093e376"
+      },
+      "expiry": 1626810352233
+    },
+    "/Users/pablo/ycard/suma-core/env/bin/python3.7.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "d8218fc4bbabb9589401646c50bc373c91e1a1448f807a0ad3b6c6015a27f93b7ec01304bcf5c3f35b8adbeab9ede6697d1a8140323a79141add3fcb0a4ff870"
+      },
+      "expiry": 1602788133764
+    },
+    "/Users/pablo/Desktop/feb_env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "8953d58bf6ec8493826955b657a7b742ec7c4cecc8dcec2a3bb4a88cd538653be2444641f4ec3e5535b6ac8faed2a2fee7b2c4bc6c7930b9bbb60457f32e33e9",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/pablo/Desktop/feb_env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.5-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.5-final"
+          },
+          "sysPrefix": "/Users/pablo/Desktop/feb_env",
+          "fileHash": "8953d58bf6ec8493826955b657a7b742ec7c4cecc8dcec2a3bb4a88cd538653be2444641f4ec3e5535b6ac8faed2a2fee7b2c4bc6c7930b9bbb60457f32e33e9",
+          "type": "Unknown",
+          "displayName": "Python 3.9.5 64-bit"
+        }
+      },
+      "expiry": 1626810352280
+    },
+    "/Users/pablo/ycard/suma-core/env/bin/python3.7.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.6 64-bit ('env': virtualenv)",
+        "hash": "d8218fc4bbabb9589401646c50bc373c91e1a1448f807a0ad3b6c6015a27f93b7ec01304bcf5c3f35b8adbeab9ede6697d1a8140323a79141add3fcb0a4ff870-a22ddfaaa686dee578a0fd527f1938b6"
+      },
+      "expiry": 1602788133830
+    },
+    "pylint_DisableLinterInstallPrompt": true,
+    "/usr/local/opt/python/bin/python3.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/opt/python/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7",
+        "fileHash": "fbdf2daf3267c9feacac1f2ec27e0dca15e3f7ed37c63b6123f2d850a9899aff9ad05fc94f399ccd6db52de90b3ab55870f5bcb14bdc3fbf0aa8a0585c90fd75"
+      },
+      "expiry": 1609996320289
+    },
+    "/usr/local/opt/python/bin/python3.7.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.6 64-bit",
+        "hash": "fbdf2daf3267c9feacac1f2ec27e0dca15e3f7ed37c63b6123f2d850a9899aff9ad05fc94f399ccd6db52de90b3ab55870f5bcb14bdc3fbf0aa8a0585c90fd75-a260896e35e5ab76560fc265f965e2b0"
+      },
+      "expiry": 1609996320776
+    },
+    "/usr/local/opt/python/bin/python3.7.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "fbdf2daf3267c9feacac1f2ec27e0dca15e3f7ed37c63b6123f2d850a9899aff9ad05fc94f399ccd6db52de90b3ab55870f5bcb14bdc3fbf0aa8a0585c90fd75",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/opt/python/bin/python3.7",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.6-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.6-final"
+          },
+          "sysPrefix": "/usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7",
+          "fileHash": "fbdf2daf3267c9feacac1f2ec27e0dca15e3f7ed37c63b6123f2d850a9899aff9ad05fc94f399ccd6db52de90b3ab55870f5bcb14bdc3fbf0aa8a0585c90fd75",
+          "type": "Unknown",
+          "displayName": "Python 3.7.6 64-bit"
+        }
+      },
+      "expiry": 1609996320843
+    },
+    "/Users/pablo/ycard/suma-core/core_env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/suma-core/core_env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.10-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.10-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/suma-core/core_env",
+        "fileHash": "d331f0bcef23eefa4dd881bd36e26e7f582e27279b6b234497e9115a25b7773f8f0d1144ced0423a0fad0dd15e1af18316dcfc4de824dd5b641409e38110488b"
+      },
+      "expiry": 1626810352088
+    },
+    "/Users/pablo/ycard/suma-core/core_env/bin/python3.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/suma-core/core_env/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.10-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.10-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/suma-core/core_env",
+        "fileHash": "270280b9ff9dd0400ab572b8f45a0d311a9c97f5591de71b81ccbd18ad893228bd58bfe7db00f11545a5ee3a43a3b49e4bcad155aa001bfcd28fd361f87ebd41"
+      },
+      "expiry": 1626810352048
+    },
+    "/Users/pablo/ycard/suma-core/core_env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/suma-core/core_env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.10-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.10-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/suma-core/core_env",
+        "fileHash": "2e79ca71ad88e0f82e7d1b9f0ef06afed70ce8c2ba87477ed80018e8f2eabb4c1df14b47ccbde349aa9cc6982ba75fb0e3453dc9df103425f6812ae553f6c746"
+      },
+      "expiry": 1626810352050
+    },
+    "/Users/pablo/ycard/suma-core/core_env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.10 64-bit ('core_env': venv)",
+        "hash": "d331f0bcef23eefa4dd881bd36e26e7f582e27279b6b234497e9115a25b7773f8f0d1144ced0423a0fad0dd15e1af18316dcfc4de824dd5b641409e38110488b-5d8c59c88e7d314de4cedcdcfe84eab4"
+      },
+      "expiry": 1626810619699
+    },
+    "/Users/pablo/ycard/suma-core/core_env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "d331f0bcef23eefa4dd881bd36e26e7f582e27279b6b234497e9115a25b7773f8f0d1144ced0423a0fad0dd15e1af18316dcfc4de824dd5b641409e38110488b",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/pablo/ycard/suma-core/core_env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.10-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 10,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.10-final"
+          },
+          "sysPrefix": "/Users/pablo/ycard/suma-core/core_env",
+          "fileHash": "d331f0bcef23eefa4dd881bd36e26e7f582e27279b6b234497e9115a25b7773f8f0d1144ced0423a0fad0dd15e1af18316dcfc4de824dd5b641409e38110488b",
+          "envName": "core_env",
+          "type": "Venv",
+          "displayName": "Python 3.7.10 64-bit ('core_env': venv)"
+        }
+      },
+      "expiry": 1626810619738
+    },
+    "/usr/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "57713c61d3f38a71f4e942ac48699e9aacb818ae279d82779f9179a4aa6610400705ce886a8ec5a28c9dfa8d6befde80c6f58105049c0083eb4a4b714f7b918d"
+      },
+      "expiry": 1626810352093
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.2-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.2-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+        "fileHash": "edec1cb3a1181e2f430db639f5af1113cb1137fcade895303f01c9c29ea0d172d8fd8673659cd0cb43083360d6e23b43fd493f5dd2b83419443e023c8668644a"
+      },
+      "expiry": 1626810352145
+    },
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.2 64-bit",
+        "hash": "edec1cb3a1181e2f430db639f5af1113cb1137fcade895303f01c9c29ea0d172d8fd8673659cd0cb43083360d6e23b43fd493f5dd2b83419443e023c8668644a-57a8cae547b03fdcee9477f477d01395"
+      },
+      "expiry": 1626810352242
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "edec1cb3a1181e2f430db639f5af1113cb1137fcade895303f01c9c29ea0d172d8fd8673659cd0cb43083360d6e23b43fd493f5dd2b83419443e023c8668644a",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.2-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.2-final"
+          },
+          "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+          "fileHash": "edec1cb3a1181e2f430db639f5af1113cb1137fcade895303f01c9c29ea0d172d8fd8673659cd0cb43083360d6e23b43fd493f5dd2b83419443e023c8668644a",
+          "type": "Unknown",
+          "displayName": "Python 3.8.2 64-bit"
+        }
+      },
+      "expiry": 1626810352300
+    },
+    "/Users/pablo/ycard/risk_scoring/tong_tong/env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/risk_scoring/tong_tong/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/risk_scoring/tong_tong/env/bin/..",
+        "fileHash": "369e557207e1ec55294cac3a113fa67ed8a71b1e84240c3f56cbc7a90194c327b2627e184e3909c2c14f5525037c6ea77ce6711f8093ca209f4641bc1f8eb215"
+      },
+      "expiry": 1598666813857
+    },
+    "/Users/pablo/ycard/risk_scoring/tong_tong/env/bin/python3.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/risk_scoring/tong_tong/env/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/risk_scoring/tong_tong/env/bin/..",
+        "fileHash": "e97b4b1cea03b2da8c68d075e731adf861631c1fee5fc509faf9f65d73b54a85944a4fefe32ddcf7b34641c1c62d31fab790b6bb551b9ee58998a56eea425fb5"
+      },
+      "expiry": 1598666813855
+    },
+    "/Users/pablo/ycard/risk_scoring/tong_tong/env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/risk_scoring/tong_tong/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/risk_scoring/tong_tong/env/bin/..",
+        "fileHash": "1ab2c7ab28b4ee8266b50fb9fba3eaede9aadbfdc5a7bde7e33a1c59e54c444e2f69fc74a9f44aedf42777c963b574ee7f0b7c4efc5afb19b427139f45e32826"
+      },
+      "expiry": 1604177616010
+    },
+    "/Users/pablo/ycard/risk_scoring/tong_tong/env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.6 64-bit",
+        "hash": "369e557207e1ec55294cac3a113fa67ed8a71b1e84240c3f56cbc7a90194c327b2627e184e3909c2c14f5525037c6ea77ce6711f8093ca209f4641bc1f8eb215-41b7778050363b45762675a7c14ed26d"
+      },
+      "expiry": 1598666814114
+    },
+    "/Users/pablo/ycard/risk_scoring/tong_tong/env/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "1ab2c7ab28b4ee8266b50fb9fba3eaede9aadbfdc5a7bde7e33a1c59e54c444e2f69fc74a9f44aedf42777c963b574ee7f0b7c4efc5afb19b427139f45e32826",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/pablo/ycard/risk_scoring/tong_tong/env/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.6-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.6-final"
+          },
+          "sysPrefix": "/Users/pablo/ycard/risk_scoring/tong_tong/env/bin/..",
+          "fileHash": "1ab2c7ab28b4ee8266b50fb9fba3eaede9aadbfdc5a7bde7e33a1c59e54c444e2f69fc74a9f44aedf42777c963b574ee7f0b7c4efc5afb19b427139f45e32826",
+          "type": "Unknown",
+          "displayName": "Python 3.7.6 64-bit"
+        }
+      },
+      "expiry": 1604177730478
+    },
+    "/Users/pablo/ycard/risk_scoring/tong_tong/env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "369e557207e1ec55294cac3a113fa67ed8a71b1e84240c3f56cbc7a90194c327b2627e184e3909c2c14f5525037c6ea77ce6711f8093ca209f4641bc1f8eb215",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/pablo/ycard/risk_scoring/tong_tong/env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.6-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.6-final"
+          },
+          "sysPrefix": "/Users/pablo/ycard/risk_scoring/tong_tong/env/bin/..",
+          "fileHash": "369e557207e1ec55294cac3a113fa67ed8a71b1e84240c3f56cbc7a90194c327b2627e184e3909c2c14f5525037c6ea77ce6711f8093ca209f4641bc1f8eb215",
+          "type": "Unknown",
+          "displayName": "Python 3.7.6 64-bit"
+        }
+      },
+      "expiry": 1598666814142
+    },
+    "/Users/pablo/ycard/risk_scoring/tong_tong/env/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.6 64-bit",
+        "hash": "1ab2c7ab28b4ee8266b50fb9fba3eaede9aadbfdc5a7bde7e33a1c59e54c444e2f69fc74a9f44aedf42777c963b574ee7f0b7c4efc5afb19b427139f45e32826-7c667e7e1477c6a3658e1627978ab448"
+      },
+      "expiry": 1604177730433
+    },
+    "/Users/pablo/Desktop/feb_env/bin/python3.7.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.6 64-bit",
+        "hash": "9039f6a3b5c8db92e6b9c418f0cd74c5bebb6965f1c7a81d094c97b67360fb17f7d07a9d317a3ae44f6e01056002fc9c24d56d02f20a469daa2ee85bcb48c2f5-e338b5d4e034029a1b33b1bf6fc078d4"
+      },
+      "expiry": 1602788133754
+    },
+    "/Users/pablo/Desktop/feb_env/bin/python3.7.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "9039f6a3b5c8db92e6b9c418f0cd74c5bebb6965f1c7a81d094c97b67360fb17f7d07a9d317a3ae44f6e01056002fc9c24d56d02f20a469daa2ee85bcb48c2f5",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/pablo/Desktop/feb_env/bin/python3.7",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.6-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.6-final"
+          },
+          "sysPrefix": "/Users/pablo/Desktop/feb_env/bin/..",
+          "fileHash": "9039f6a3b5c8db92e6b9c418f0cd74c5bebb6965f1c7a81d094c97b67360fb17f7d07a9d317a3ae44f6e01056002fc9c24d56d02f20a469daa2ee85bcb48c2f5",
+          "type": "Unknown",
+          "displayName": "Python 3.7.6 64-bit"
+        }
+      },
+      "expiry": 1602788133794
+    },
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/usr/local/opt/python@3.9/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.5-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.5-final"
+      },
+      "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "cb366481e96351153185051237199cd632c238b673542c1bae79e45d46371ee584158240bd43074e945e1843b2ca490d0ce928cc66d1b31e15ed4324e738dda0",
+      "type": "Unknown"
+    },
+    "/Users/pablo/ycard/suma-core/venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/suma-core/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/suma-core/venv",
+        "fileHash": "b0c940698add236df0a30c2529fba8ad79676354c9220e855a5f7658fbee5bb422d39224b924c9ed3dde9829a2db2edc179975d6d11928c2e49e4ed9fe8766cf"
+      },
+      "expiry": 1609996320258
+    },
+    "/Users/pablo/ycard/suma-core/venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/suma-core/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/suma-core/venv",
+        "fileHash": "b7a71cf05a6a06a60a4ed7c0d9928f09326c9bc93a699f1b97299ab1c17e261aa7e8b5a91b8cdb1ebb083a51f493584a56efc64575a357a2c65fd70ee5427fe6"
+      },
+      "expiry": 1609996320631
+    },
+    "/Users/pablo/ycard/suma-core/venv/bin/python3.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/suma-core/venv/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/suma-core/venv",
+        "fileHash": "2f1777658c1633d74e224de4bcb70ca7c1a8389d7bddc52d6197ce7c81f2fe96903aaca6cace9eff4f7b29bb350799ca48764e59fd200416a4c099b0706837af"
+      },
+      "expiry": 1609996320668
+    },
+    "InterpreterAutoSeletionRule-workspaceEnvs": {
+      "architecture": 3,
+      "path": "/Users/pablo/ycard/suma-core/core_env/bin/python3.7",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.10-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 10,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.10-final"
+      },
+      "sysPrefix": "/Users/pablo/ycard/suma-core/core_env",
+      "fileHash": "270280b9ff9dd0400ab572b8f45a0d311a9c97f5591de71b81ccbd18ad893228bd58bfe7db00f11545a5ee3a43a3b49e4bcad155aa001bfcd28fd361f87ebd41",
+      "envName": "core_env",
+      "type": "Venv"
+    },
+    "/Users/pablo/ycard/suma-core/venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.7.6 64-bit ('venv': venv)",
+        "hash": "b0c940698add236df0a30c2529fba8ad79676354c9220e855a5f7658fbee5bb422d39224b924c9ed3dde9829a2db2edc179975d6d11928c2e49e4ed9fe8766cf-b58cf7356b178ea7b8f10c19661d4dfc"
+      },
+      "expiry": 1609996320763
+    },
+    "/Users/pablo/ycard/suma-core/venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "b0c940698add236df0a30c2529fba8ad79676354c9220e855a5f7658fbee5bb422d39224b924c9ed3dde9829a2db2edc179975d6d11928c2e49e4ed9fe8766cf",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/pablo/ycard/suma-core/venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.7.6-final",
+            "major": 3,
+            "minor": 7,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.7.6-final"
+          },
+          "sysPrefix": "/Users/pablo/ycard/suma-core/venv",
+          "fileHash": "b0c940698add236df0a30c2529fba8ad79676354c9220e855a5f7658fbee5bb422d39224b924c9ed3dde9829a2db2edc179975d6d11928c2e49e4ed9fe8766cf",
+          "envName": "venv",
+          "type": "Venv",
+          "displayName": "Python 3.7.6 64-bit ('venv': venv)"
+        }
+      },
+      "expiry": 1609996320816
+    },
+    "/usr/local/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "145f86075005fae2229bea817a95e79c1ee6c784d7633c7ab43e81cf73353d749fd5d74a7b19b7e5cb3a4f33419290abd0012e9256e83c5514a0839ac2819a77"
+      },
+      "expiry": 1626810352023
+    },
+    "/usr/local/opt/python@3.9/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/opt/python@3.9/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "cb366481e96351153185051237199cd632c238b673542c1bae79e45d46371ee584158240bd43074e945e1843b2ca490d0ce928cc66d1b31e15ed4324e738dda0"
+      },
+      "expiry": 1626810619581
+    },
+    "/usr/local/opt/python@3.9/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.5 64-bit",
+        "hash": "cb366481e96351153185051237199cd632c238b673542c1bae79e45d46371ee584158240bd43074e945e1843b2ca490d0ce928cc66d1b31e15ed4324e738dda0-12c6fc9766faaef29b11b08ad6672443"
+      },
+      "expiry": 1626810619714
+    },
+    "/usr/local/opt/python@3.9/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "cb366481e96351153185051237199cd632c238b673542c1bae79e45d46371ee584158240bd43074e945e1843b2ca490d0ce928cc66d1b31e15ed4324e738dda0",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/opt/python@3.9/bin/python3.9",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.5-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.5-final"
+          },
+          "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+          "fileHash": "cb366481e96351153185051237199cd632c238b673542c1bae79e45d46371ee584158240bd43074e945e1843b2ca490d0ce928cc66d1b31e15ed4324e738dda0",
+          "type": "Unknown",
+          "displayName": "Python 3.9.5 64-bit"
+        }
+      },
+      "expiry": 1626810619755
+    },
+    "/Users/pablo/projects/binaural_test/env/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/pablo/projects/binaural_test/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/pablo/projects/binaural_test/env",
+        "fileHash": "4d3e9fa88641f7853390802d6fe14621882d2c117f97dbdd7b4e863badccf8b9eaa44503856f891766cdb90784a53535dc9f46403a493df82f055e7d5ef44e69"
+      },
+      "expiry": 1615838415440
+    },
+    "/Users/pablo/projects/binaural_test/env/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/pablo/projects/binaural_test/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/pablo/projects/binaural_test/env",
+        "fileHash": "92445d1af1305972835f2bf277f7e0910672c5df500f557222d709af24c73600c9f1f60d0f88ee993e2c1c22e9c3ae0e8e9308daa8cfe183457a312987d400aa"
+      },
+      "expiry": 1615838415448
+    },
+    "/Users/pablo/projects/binaural_test/env/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/pablo/projects/binaural_test/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/pablo/projects/binaural_test/env",
+        "fileHash": "b7d98fd0339a8c1ba07effca4308ebd9a2bab84c9282bb7fdcb69e87f22802122e7bc7a9e59f26a5a08d9d1972dcf2b6b1ee9b4c7478557dac55e13098d81016"
+      },
+      "expiry": 1615838415519
+    },
+    "/Users/pablo/projects/binaural_test/env/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit ('env': venv)",
+        "hash": "b7d98fd0339a8c1ba07effca4308ebd9a2bab84c9282bb7fdcb69e87f22802122e7bc7a9e59f26a5a08d9d1972dcf2b6b1ee9b4c7478557dac55e13098d81016-f205470cf041e4280994d0273f16f70d"
+      },
+      "expiry": 1615838415564
+    },
+    "/Users/pablo/projects/binaural_test/env/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "92445d1af1305972835f2bf277f7e0910672c5df500f557222d709af24c73600c9f1f60d0f88ee993e2c1c22e9c3ae0e8e9308daa8cfe183457a312987d400aa"
+      },
+      "expiry": 1615838415586
+    },
+    "/Users/pablo/projects/binaural_test/env/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "b7d98fd0339a8c1ba07effca4308ebd9a2bab84c9282bb7fdcb69e87f22802122e7bc7a9e59f26a5a08d9d1972dcf2b6b1ee9b4c7478557dac55e13098d81016",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/pablo/projects/binaural_test/env/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.1-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 1,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.1-final"
+          },
+          "sysPrefix": "/Users/pablo/projects/binaural_test/env",
+          "fileHash": "b7d98fd0339a8c1ba07effca4308ebd9a2bab84c9282bb7fdcb69e87f22802122e7bc7a9e59f26a5a08d9d1972dcf2b6b1ee9b4c7478557dac55e13098d81016",
+          "envName": "env",
+          "type": "Venv",
+          "displayName": "Python 3.9.1 64-bit ('env': venv)"
+        }
+      },
+      "expiry": 1615838415612
+    },
+    "/Users/pablo/projects/binaural_test/env/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit ('env': venv)",
+        "hash": "92445d1af1305972835f2bf277f7e0910672c5df500f557222d709af24c73600c9f1f60d0f88ee993e2c1c22e9c3ae0e8e9308daa8cfe183457a312987d400aa-b28ffc274992a48734f4f3376ccac694"
+      },
+      "expiry": 1615838415655
+    },
+    "/Users/pablo/Desktop/feb_env/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/pablo/Desktop/feb_env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/Users/pablo/Desktop/feb_env",
+        "fileHash": "571dc5b83a7f83fb7eb1d862402d62c13fbbc95dd697f049266056b836ee8ae4d11f3908ef27c4abdf84f9debb760090c1737ebffb0d70bdae6d0b3cbffd569d"
+      },
+      "expiry": 1626810352005
+    },
+    "/Users/pablo/Desktop/feb_env/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.5 64-bit ('feb_env': venv)",
+        "hash": "936f68b7c7616458a5c69a5a2b7deb43a999dd709322f06a9346d42d4ae58eacbdb6ccd6546cbaf4f3d7196296792ab2a544fbbbc26dee596cbd946e2845190b-4c5efa50fc1668a3d1ad554ddb576ace"
+      },
+      "expiry": 1626547843401
+    },
+    "/Users/pablo/Desktop/feb_env/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "936f68b7c7616458a5c69a5a2b7deb43a999dd709322f06a9346d42d4ae58eacbdb6ccd6546cbaf4f3d7196296792ab2a544fbbbc26dee596cbd946e2845190b"
+      },
+      "expiry": 1626547843218
+    }
+  },
+  "coc-python|/Users/pablo/ycard/finicity-shell": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:5e290db1f1e15b780ede44e451be232b": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:5e290db1f1e15b780ede44e451be232b": [
+      {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/finicity-shell/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/finicity-shell/env/bin/..",
+        "fileHash": "6cd6c0fec9c05d21d9df97753d3426951b6dc9ef8997e944761f8306e30c8d831e7dc33322d4a37a192095a25b2dca9fbe3451a8e84cc8ae30ca67130226c72d",
+        "envName": "env",
+        "type": "VirtualEnv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/finicity-shell/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/finicity-shell/env/bin/..",
+        "fileHash": "eedc0b9284abf435825694d23fc826c551b58322587421eb0860d05a3c2115489de40882cc3efa3e0675d7a4dd876c7ebd2c698d40c07232d75d928820fb85b4",
+        "envName": "env",
+        "type": "VirtualEnv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/finicity-shell/env/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/finicity-shell/env/bin/..",
+        "fileHash": "f41ca7c6ebb003d6f96058a774eb04afb60dfb4d7190563a86ff93c43692e1b9ebcbb4e07cecc1ea27ef6601aa56328d825637364ca5d53a751d74b7ca7108e5",
+        "envName": "env",
+        "type": "VirtualEnv"
+      }
+    ],
+    "SelectedPythonPath": "/Users/pablo/ycard/finicity-shell/env/bin/python3",
+    "autoSelectedWorkspacePythonInterpreter-/Users/pablo/ycard/finicity-shell": {
+      "architecture": 3,
+      "path": "/Users/pablo/ycard/finicity-shell/env/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.6-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.6-final"
+      },
+      "sysPrefix": "/Users/pablo/ycard/finicity-shell/env/bin/..",
+      "fileHash": "eedc0b9284abf435825694d23fc826c551b58322587421eb0860d05a3c2115489de40882cc3efa3e0675d7a4dd876c7ebd2c698d40c07232d75d928820fb85b4",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/finicity-shell/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/finicity-shell/env/bin/..",
+        "fileHash": "6cd6c0fec9c05d21d9df97753d3426951b6dc9ef8997e944761f8306e30c8d831e7dc33322d4a37a192095a25b2dca9fbe3451a8e84cc8ae30ca67130226c72d",
+        "envName": "env",
+        "type": "VirtualEnv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/finicity-shell/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/finicity-shell/env/bin/..",
+        "fileHash": "eedc0b9284abf435825694d23fc826c551b58322587421eb0860d05a3c2115489de40882cc3efa3e0675d7a4dd876c7ebd2c698d40c07232d75d928820fb85b4",
+        "envName": "env",
+        "type": "VirtualEnv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/finicity-shell/env/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.6-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.6-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/finicity-shell/env/bin/..",
+        "fileHash": "f41ca7c6ebb003d6f96058a774eb04afb60dfb4d7190563a86ff93c43692e1b9ebcbb4e07cecc1ea27ef6601aa56328d825637364ca5d53a751d74b7ca7108e5",
+        "envName": "env",
+        "type": "VirtualEnv"
+      }
+    ]
+  },
+  "coc-python|/Users/pablo/ycard/suma-core": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:f20d33e9f79b15d58062faeae3752be0": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:f20d33e9f79b15d58062faeae3752be0": [
+      {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/suma-core/core_env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.10-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.10-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/suma-core/core_env",
+        "fileHash": "d331f0bcef23eefa4dd881bd36e26e7f582e27279b6b234497e9115a25b7773f8f0d1144ced0423a0fad0dd15e1af18316dcfc4de824dd5b641409e38110488b",
+        "envName": "core_env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/suma-core/core_env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.10-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.10-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/suma-core/core_env",
+        "fileHash": "2e79ca71ad88e0f82e7d1b9f0ef06afed70ce8c2ba87477ed80018e8f2eabb4c1df14b47ccbde349aa9cc6982ba75fb0e3453dc9df103425f6812ae553f6c746",
+        "envName": "core_env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/suma-core/core_env/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.10-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.10-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/suma-core/core_env",
+        "fileHash": "270280b9ff9dd0400ab572b8f45a0d311a9c97f5591de71b81ccbd18ad893228bd58bfe7db00f11545a5ee3a43a3b49e4bcad155aa001bfcd28fd361f87ebd41",
+        "envName": "core_env",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/Users/pablo/ycard/suma-core/core_env/bin/python",
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/suma-core/core_env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.10-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.10-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/suma-core/core_env",
+        "fileHash": "d331f0bcef23eefa4dd881bd36e26e7f582e27279b6b234497e9115a25b7773f8f0d1144ced0423a0fad0dd15e1af18316dcfc4de824dd5b641409e38110488b",
+        "envName": "core_env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/suma-core/core_env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.10-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.10-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/suma-core/core_env",
+        "fileHash": "2e79ca71ad88e0f82e7d1b9f0ef06afed70ce8c2ba87477ed80018e8f2eabb4c1df14b47ccbde349aa9cc6982ba75fb0e3453dc9df103425f6812ae553f6c746",
+        "envName": "core_env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/pablo/ycard/suma-core/core_env/bin/python3.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.7.10-final",
+          "major": 3,
+          "minor": 7,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.7.10-final"
+        },
+        "sysPrefix": "/Users/pablo/ycard/suma-core/core_env",
+        "fileHash": "270280b9ff9dd0400ab572b8f45a0d311a9c97f5591de71b81ccbd18ad893228bd58bfe7db00f11545a5ee3a43a3b49e4bcad155aa001bfcd28fd361f87ebd41",
+        "envName": "core_env",
+        "type": "Venv"
+      }
+    ],
+    "autoSelectedWorkspacePythonInterpreter-/Users/pablo/ycard/suma-core": {
+      "architecture": 3,
+      "path": "/Users/pablo/ycard/suma-core/core_env/bin/python3.7",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.10-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 10,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.10-final"
+      },
+      "sysPrefix": "/Users/pablo/ycard/suma-core/core_env",
+      "fileHash": "270280b9ff9dd0400ab572b8f45a0d311a9c97f5591de71b81ccbd18ad893228bd58bfe7db00f11545a5ee3a43a3b49e4bcad155aa001bfcd28fd361f87ebd41",
+      "envName": "core_env",
+      "type": "Venv"
+    }
+  },
+  "coc-python|/Users/pablo/projects/git_clones/python-ach": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:72ad34a04c6948a99de4522205225583": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:72ad34a04c6948a99de4522205225583": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/pablo/projects/git_clones/python-ach": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.6-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.6-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7",
+      "fileHash": "5270ee24dfff352e3ae19395da23c5ffdebac5ab20df2d58d1ed7a17af38e908afe5c77b6ffe5f90ce33f9dd10fe8e2d20d1dd801e9a930f7a5f2e60d31129f3",
+      "type": "Unknown",
+      "displayName": "Python 3.7.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/pablo/ycard/suma-infra": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:c2358e51ff52d28307bb8bde8c97e394": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:c2358e51ff52d28307bb8bde8c97e394": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/pablo/ycard/suma-infra": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.6-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.6-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7",
+      "fileHash": "5270ee24dfff352e3ae19395da23c5ffdebac5ab20df2d58d1ed7a17af38e908afe5c77b6ffe5f90ce33f9dd10fe8e2d20d1dd801e9a930f7a5f2e60d31129f3",
+      "type": "Unknown",
+      "displayName": "Python 3.7.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/pablo/projects/git_clones/freezegun": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:11f72b65b744da4f0c4c4e599bc15282": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:11f72b65b744da4f0c4c4e599bc15282": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/pablo/projects/git_clones/freezegun": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.6-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.6-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7",
+      "fileHash": "5270ee24dfff352e3ae19395da23c5ffdebac5ab20df2d58d1ed7a17af38e908afe5c77b6ffe5f90ce33f9dd10fe8e2d20d1dd801e9a930f7a5f2e60d31129f3",
+      "type": "Unknown",
+      "displayName": "Python 3.7.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/pablo/ycard/risk_scoring": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:865a6f613d8fbfcbcb33a58c5616bd01": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:865a6f613d8fbfcbcb33a58c5616bd01": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/pablo/ycard/risk_scoring": {
+      "architecture": 3,
+      "path": "/Users/pablo/ycard/risk_scoring/tong_tong/env/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.6-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.6-final"
+      },
+      "sysPrefix": "/Users/pablo/ycard/risk_scoring/tong_tong/env/bin/..",
+      "fileHash": "1ab2c7ab28b4ee8266b50fb9fba3eaede9aadbfdc5a7bde7e33a1c59e54c444e2f69fc74a9f44aedf42777c963b574ee7f0b7c4efc5afb19b427139f45e32826",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "SelectedPythonPath": "/Users/pablo/ycard/risk_scoring/tong_tong/env/bin/python3"
+  },
+  "coc-python|/Users/pablo/ycard/pablo_interview/web_crawler": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:b88cc6ecd20badd3cf09a93a62eb729f": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:b88cc6ecd20badd3cf09a93a62eb729f": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/pablo/ycard/pablo_interview/web_crawler": {
+      "architecture": 3,
+      "path": "/usr/local/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.7.6-final",
+        "major": 3,
+        "minor": 7,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.7.6-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7",
+      "fileHash": "5270ee24dfff352e3ae19395da23c5ffdebac5ab20df2d58d1ed7a17af38e908afe5c77b6ffe5f90ce33f9dd10fe8e2d20d1dd801e9a930f7a5f2e60d31129f3",
+      "type": "Unknown",
+      "displayName": "Python 3.7.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/pablo/projects/advent_of_code_2020": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:7355045138763b0f46a164213d4b667b": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:7355045138763b0f46a164213d4b667b": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/pablo/projects/advent_of_code_2020": {
+      "architecture": 3,
+      "path": "/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.2-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.2-final"
+      },
+      "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
+      "fileHash": "edec1cb3a1181e2f430db639f5af1113cb1137fcade895303f01c9c29ea0d172d8fd8673659cd0cb43083360d6e23b43fd493f5dd2b83419443e023c8668644a",
+      "type": "Unknown",
+      "displayName": "Python 3.8.2 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/pablo/projects/binaural_test": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:7e774b59e961f9bb4c2ed93210469de6": [],
+    "SelectedPythonPath": "/Users/pablo/projects/binaural_test/env/bin/python3",
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:7e774b59e961f9bb4c2ed93210469de6": [
+      {
+        "architecture": 3,
+        "path": "/Users/pablo/projects/binaural_test/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/pablo/projects/binaural_test/env",
+        "fileHash": "b7d98fd0339a8c1ba07effca4308ebd9a2bab84c9282bb7fdcb69e87f22802122e7bc7a9e59f26a5a08d9d1972dcf2b6b1ee9b4c7478557dac55e13098d81016",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/pablo/projects/binaural_test/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/pablo/projects/binaural_test/env",
+        "fileHash": "92445d1af1305972835f2bf277f7e0910672c5df500f557222d709af24c73600c9f1f60d0f88ee993e2c1c22e9c3ae0e8e9308daa8cfe183457a312987d400aa",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/pablo/projects/binaural_test/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/pablo/projects/binaural_test/env",
+        "fileHash": "4d3e9fa88641f7853390802d6fe14621882d2c117f97dbdd7b4e863badccf8b9eaa44503856f891766cdb90784a53535dc9f46403a493df82f055e7d5ef44e69",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ],
+    "autoSelectedWorkspacePythonInterpreter-/Users/pablo/projects/binaural_test": {
+      "architecture": 3,
+      "path": "/Users/pablo/projects/binaural_test/env/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/Users/pablo/projects/binaural_test/env",
+      "fileHash": "92445d1af1305972835f2bf277f7e0910672c5df500f557222d709af24c73600c9f1f60d0f88ee993e2c1c22e9c3ae0e8e9308daa8cfe183457a312987d400aa",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/pablo/projects/binaural_test/env/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/pablo/projects/binaural_test/env",
+        "fileHash": "b7d98fd0339a8c1ba07effca4308ebd9a2bab84c9282bb7fdcb69e87f22802122e7bc7a9e59f26a5a08d9d1972dcf2b6b1ee9b4c7478557dac55e13098d81016",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/pablo/projects/binaural_test/env/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/pablo/projects/binaural_test/env",
+        "fileHash": "92445d1af1305972835f2bf277f7e0910672c5df500f557222d709af24c73600c9f1f60d0f88ee993e2c1c22e9c3ae0e8e9308daa8cfe183457a312987d400aa",
+        "envName": "env",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/pablo/projects/binaural_test/env/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/Users/pablo/projects/binaural_test/env",
+        "fileHash": "4d3e9fa88641f7853390802d6fe14621882d2c117f97dbdd7b4e863badccf8b9eaa44503856f891766cdb90784a53535dc9f46403a493df82f055e7d5ef44e69",
+        "envName": "env",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/Users/pablo/projects/git_clones/pytest": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:b7b5a2fb036274388a127c28efab16f9": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:b7b5a2fb036274388a127c28efab16f9": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/pablo/projects/git_clones/pytest": {
+      "architecture": 3,
+      "path": "/usr/local/opt/python@3.9/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_8/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "41d62c85d6ab4aaa7e0e3f68d796b697b877d7dc52d89c3a958fa9bbfd15ce73b857e7ad61389eb48768129d73269a532b26d6a9a63381c7d4d09e43a911fe41",
+      "type": "Unknown",
+      "displayName": "Python 3.9.1 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/pablo/ycard/sarah_hellow": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:cb21c5b9f86826042e317c23030fcda6": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:cb21c5b9f86826042e317c23030fcda6": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/pablo/ycard/sarah_hellow": {
+      "architecture": 3,
+      "path": "/Users/pablo/Desktop/feb_env/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.5-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.5-final"
+      },
+      "sysPrefix": "/Users/pablo/Desktop/feb_env",
+      "fileHash": "936f68b7c7616458a5c69a5a2b7deb43a999dd709322f06a9346d42d4ae58eacbdb6ccd6546cbaf4f3d7196296792ab2a544fbbbc26dee596cbd946e2845190b",
+      "type": "Unknown",
+      "displayName": "Python 3.9.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  }
+}
